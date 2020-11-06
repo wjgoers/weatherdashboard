@@ -1,0 +1,18 @@
+#page_header{
+    text-align: center;
+    background-color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#searchbtn{
+    background-color:salmon;
+    color: white;
+    border-radius: 100px; 
+}
+
+.card-body{
+    background-color: salmon;
+    color: white;
+}
+
